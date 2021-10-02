@@ -12,7 +12,7 @@
     "firebase-tools": "^6.10.0",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-facebook-login": "^1.6.1",
     "react-native-fbsdk": "^0.8.0",
     "react-native-firebase": "^5.3.1",
